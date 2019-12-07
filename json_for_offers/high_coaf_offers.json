@@ -1,0 +1,31 @@
+﻿{
+  "high_coaf_offers": {
+    "standard_offer": {
+      "premium_card": 0,
+      "gold_card": 20,
+      "classic_card": 80,
+      "prioryty_pass_card": 0,
+      "commission": 5,
+      "ATM": false,
+      "fast_card_limit": 10
+    },
+    "gold_offer": {
+      "premium_card": 5,
+      "gold_card": 35,
+      "classic_card": 60,
+      "prioryty_pass_card": 0,
+      "commission": 5,
+      "ATM": false,
+      "fast_card_limit": 10
+    },
+    "premium_offer": {
+      "premium_card": 10,
+      "gold_card": 40,
+      "classic_card": 50,
+      "prioryty_pass_card": 0,
+      "commission": 5,
+      "ATM": false,
+      "fast_card_limit": 10
+    }
+  }
+}
