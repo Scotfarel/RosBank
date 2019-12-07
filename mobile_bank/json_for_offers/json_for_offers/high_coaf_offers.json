@@ -1,0 +1,31 @@
+﻿{
+  "offers": {
+    "standard_offer": {
+      "premium_card": 2,
+      "gold_card": 30,
+      "classic_card": 68,
+      "priority_pass_card": 0,
+      "commission": 5,
+      "ATM": false,
+      "fast_card_limit": 10
+    },
+    "gold_offer": {
+      "premium_card": 7,
+      "gold_card": 33,
+      "classic_card": 60,
+      "priority_pass_card": 5,
+      "commission": 5,
+      "ATM": true,
+      "fast_card_limit": 10
+    },
+    "premium_offer": {
+      "premium_card": 15,
+      "gold_card": 50,
+      "classic_card": 35,
+      "priority_pass_card": 40,
+      "commission": 5,
+      "ATM": true,
+      "fast_card_limit": 40
+    }
+  }
+}
